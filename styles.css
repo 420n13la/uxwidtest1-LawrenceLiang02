@@ -1,3 +1,35 @@
-body{
+<style>
+
+body {
+	background-image: url("pattern.png");
+	font-family: helvetica,sans-serif;
+}
+
+nav {
+	
+background-color: #95484b;
+font-weight: bold;
+	display: inline;
+	text-align: center;
+	
+}
+
+main {
 
 }
+dt {
+	font-weight: bold;
+}
+#wrapper {
+	margin-bottom: 33px;
+	margin-top: 33px;
+	padding: 33px;
+	background-color: whitesmoke;
+}
+#frame {
+background-image: url("cohort.png");
+background-position: center;
+background-repeat: no-repeat;
+padding: 470px;
+}
+</style>
