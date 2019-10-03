@@ -29,8 +29,6 @@ dt {
 background-image: url("cohort.png");
 background-position: center;
 background-repeat: no-repeat;
-size: 470px;
-height: 100%;
-width: 100%;
+padding: 470px;
 }
 </style>
